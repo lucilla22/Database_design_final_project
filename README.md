@@ -43,7 +43,3 @@ The database contains the following main tables:
 - [MySQL Server](https://dev.mysql.com/downloads/) installed locally or accessible remotely.
 - MySQL client (CLI or GUI such as MySQL Workbench, phpMyAdmin, DBeaver, etc.).
 
-### Setup Instructions
-1. Clone or download this repository:
-   ```bash
-   git clone https://github.com/<your-username>/student-management-system.git
